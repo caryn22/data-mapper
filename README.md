@@ -5,9 +5,9 @@ Generate county-level choropleth or bubble maps. This is a very new project and 
 
 As long as your data has a 'fips' field, Data Mapper will make you a map. Your data can also include an optional 'sequence' field, which can be a date, year, day of the week, or any category that you may want to group your data by. Data Mapper will assume any field not named 'fips' or 'sequence' is something you want to map.
 
-Demo at <a href="//kcollins.io/data-mapper/demo.html">kcollins.io/data-mapper/demo.html</a>
+Demo at <a href="http://kcollins.io/data-mapper/demo.html">kcollins.io/data-mapper/demo.html</a>
 
-Or just paste in a CSV at <a href="//kcollins.io/data-mapper/">kcollins.io/data-mapper/</a>
+Or just paste in a CSV at <a href="http://kcollins.io/data-mapper/">kcollins.io/data-mapper/</a>
 
 ## Snippets
 
